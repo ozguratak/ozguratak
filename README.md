@@ -12,8 +12,8 @@
 
 <h2 align="left">You can follow me and view my other projects on:</h2>
 <p align="left">
-<a href="[https://www.instructables.com/member/ozguratak0/](https://www.instructables.com/member/ozguratak0/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/45077422/198299873-fd17716c-a50f-4b34-9515-2941cc15c867.png" alt="ozguratak" height="40" width="40" /></a>
-<a href="[https://www.thingiverse.com/ozguratak/designs](https://www.thingiverse.com/ozguratak/designs)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/45077422/198301808-9bfbcfa8-0ba5-48b2-9145-20701e1ee766.png)" alt="ozguratak" height="40" width="40" /></a>
+<a href="https://www.instructables.com/member/ozguratak0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/45077422/198299873-fd17716c-a50f-4b34-9515-2941cc15c867.png" alt="ozguratak" height="40" width="40" /></a>
+<a href="https://www.thingiverse.com/ozguratak/designs" target="blank"><img align="center" src="https://user-images.githubusercontent.com/45077422/198301808-9bfbcfa8-0ba5-48b2-9145-20701e1ee766.png)" alt="ozguratak/designs" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
