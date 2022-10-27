@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özgür!</h1>
 
-<img align="right" alt="Coding" width="350" src="https://www.bhartiyatech.com/assets/img/job-opening-large.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/45077422/198304360-601e00b0-0fbb-4988-99be-b2d892575b10.gif">!
+
 
 - 👀 I’m interested in wearable technologies, smart and mobile systems and also try to generate thems!
 
