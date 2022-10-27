@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm Özgür!</h1>
+
+<img align="right" alt="Coding" width="350" src="https://www.bhartiyatech.com/assets/img/job-opening-large.gif">
+
 - 👀 I’m interested in wearable technologies, smart and mobile systems and also try to generate thems!
+
 - 🌱 I’m currently learning IOS development and other mobile systems
-- 📫 You can reach me: ozguratak0@gmail.com                                                             
+
+- 📫 You can reach me: ozguratak0@gmail.com  
+                                                           
 - 💬 Ask me about: Swift, IOS Development, IoT, Electronics and all types of development boards!
-<img align="right" alt="Coding" width="350" src="https://tenor.com/view/working-hard-work-gif-22507799">
-You can look my other projects on [instructables](https://www.instructables.com/member/ozguratak0/) and [thingiverse](https://www.thingiverse.com/ozguratak/designs)
+
+<h2 align="left">You can follow me and view my other projects on:</h2>
+<p align="left">
+<a href="[https://www.instructables.com/member/ozguratak0/](https://www.instructables.com/member/ozguratak0/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/45077422/198299873-fd17716c-a50f-4b34-9515-2941cc15c867.png" alt="ozguratak" height="40" width="40" /></a>
+<a href="[https://www.thingiverse.com/ozguratak/designs](https://www.thingiverse.com/ozguratak/designs)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/45077422/198301808-9bfbcfa8-0ba5-48b2-9145-20701e1ee766.png)" alt="ozguratak" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
