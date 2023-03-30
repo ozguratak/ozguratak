@@ -21,6 +21,7 @@
 <p align="left">
 <a href="[https://linkedin.com/in/fullstackengineer4177](https://www.linkedin.com/in/fullstackengineer4177/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozguratak" height="30" width="40" /></a>
   <a href="[https://open.spotify.com/user/ozguratak?si=eaf4e49f0a474807](https://open.spotify.com/user/ozguratak?si=eaf4e49f0a474807)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1024px-Spotify_icon.svg.png?20220821125323" alt="ozguratak" height="40" width="40" /></a>
+  <a href="[https://www.upwork.com/freelancers/ozguratak](https://www.upwork.com/freelancers/ozguratak)" target="blank"><img align="center" src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" alt="ozguratak" height="40" width="40" /></a>
 </p>
 
 
